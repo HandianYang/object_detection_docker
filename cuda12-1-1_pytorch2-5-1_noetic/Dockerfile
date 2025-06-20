@@ -61,8 +61,9 @@ RUN python3 -m pip install --upgrade \
       torchvision \
       torchaudio \
       --index-url https://download.pytorch.org/whl/cu121 && \
-    # object detection
+    # object detection, object tracking, realsense
     pip install --no-cache-dir \
+      norfair \
       pyrealsense2 \
       supervision \
       ultralytics && \

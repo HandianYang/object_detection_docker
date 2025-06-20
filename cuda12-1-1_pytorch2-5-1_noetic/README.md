@@ -18,6 +18,7 @@
 * Ultralytics (YOLO object detection)
 * Detectron2 (instance segmentation)
 * Albumentations (data augmentation)
++ Norfair (object tracking)
 
 ## Tools and dependencies
 * Common tools:

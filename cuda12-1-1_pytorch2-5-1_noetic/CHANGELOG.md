@@ -1,3 +1,8 @@
+Version 1.1.0 (Jun 19, 2025)
+----------------------------
+
++ Installed `norfair` package for object tracking
+
 Version 1.0.0 (Jun 2, 2025)
 ----------------------------
 
