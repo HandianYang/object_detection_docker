@@ -65,6 +65,7 @@ RUN python3 -m pip install --upgrade \
     pip install --no-cache-dir \
       norfair \
       pyrealsense2 \
+      scikit-learn \
       supervision \
       ultralytics && \
     # Detectron2

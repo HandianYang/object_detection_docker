@@ -1,3 +1,8 @@
+Version 1.2.0 (Jul 18, 2025)
+----------------------------
+
++ Installed `scikit-learn` package for DBSCAN pointcloud clustering
+
 Version 1.1.0 (Jun 19, 2025)
 ----------------------------
 

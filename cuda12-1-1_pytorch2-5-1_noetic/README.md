@@ -19,6 +19,7 @@
 * Detectron2 (instance segmentation)
 * Albumentations (data augmentation)
 + Norfair (object tracking)
++ DBSCAN (pointcloud clustering)
 
 ## Tools and dependencies
 * Common tools:
